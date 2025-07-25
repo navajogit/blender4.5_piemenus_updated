@@ -8,7 +8,22 @@ A collection of old pie menu addons for Blender 4.5+ that have been updated from
 
 **This repository contains other / older pie menu addon** that were originally designed for older versions of Blender and have been **updated by me** to work with **Blender 4.5**. 
 
-Since official Blender developers take forever to update these addons (if they ever do), this repository serves as a quality-of-life improvement for the community. You can use these updated versions while waiting for official updates that may never come.
+This repository serves as a quality-of-life improvement for the community and as an old but updated alternative. You can use these updated versions or try the newest one with the official repository.
+
+## Why Try the Old Pie Menus?
+
+The newer version on Blender Extensions is more polished and has more functionality and settings. However, if you prefer the older, simpler version, here are reasons to try this one:
+
+### **Why You Might Prefer This Version:**
+- **Simpler Setup**: Less configuration options and settings to manage
+- **Familiar Workflow**: If you're used to this exact version from older Blender releases  
+- **Less Complex**: Fewer features means less things that can break or conflict
+- **Backup Option**: Alternative if the Extensions version doesn't work for you
+
+### **Important Disclaimer:**
+**Some pie menus work properly, but I don't guarantee all of them will function correctly.** I'm primarily interested in a few specific ones (especially the **Origin Pie**), so other menus haven't been thoroughly tested. Use at your own risk.
+
+**Bottom Line**: The new version has more features, but sometimes simpler is better - choose what fits your workflow.
 
 **Main focus**: The **Origin Pie** menu works perfectly (origin to bottom) - that's what matters most to me and hopefully to you too.
 
