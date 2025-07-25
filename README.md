@@ -1,10 +1,12 @@
-# Blender 4.5 Updated 3D Viewport Pie Menus (space_view3d_pie_menus)
+# Blender 4.5 Updated old 3D Viewport Pie Menus (space_view3d_pie_menus)
 
-A collection of pie menu addons for Blender 4.5+ that have been updated from legacy versions that worked in much older Blender releases.
+A collection of old pie menu addons for Blender 4.5+ that have been updated from legacy versions that worked in much older Blender releases.
+
+**Note**: The **newer version** was removed from Blender but is still available on the [Blender Extensions platform](https://extensions.blender.org/add-ons/viewport-pie-menus/).
 
 ## Overview
 
-This repository contains pie menu addons that were originally designed for older versions of Blender and have been **updated by me** to work with **Blender 4.5**. 
+**This repository contains other / older pie menu addon** that were originally designed for older versions of Blender and have been **updated by me** to work with **Blender 4.5**. 
 
 Since official Blender developers take forever to update these addons (if they ever do), this repository serves as a quality-of-life improvement for the community. You can use these updated versions while waiting for official updates that may never come.
 
